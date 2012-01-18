@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Position()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Position\r\n
+comment1.params=nx\ ny
+comment1.target=Position(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=newX
+comment4.target=void\ setX(int)
+comment5.params=newY
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=pp
+comment7.target=int\ compareTo(java.lang.Object)
+comment8.params=pp
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9

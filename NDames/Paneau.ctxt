@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment0.text=public\ static\ void\ main\ (String\ args[])\r\n\ \ {\ \r\n\ \ \ \ \ \ Surface\ fen\ \=\ new\ Surface()\ ;\r\n\ \ \ \ \ \ fen.setVisible(true)\ ;\r\n\ \ }\r\n
-comment1.params=
-comment1.target=void\ test()
-comment2.params=
-comment2.target=void\ debug()
-numComments=3

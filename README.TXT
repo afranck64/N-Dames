@@ -7,6 +7,6 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: nano-Dames
 PURPOSE OF PROJECT: 
 VERSION or DATE: 2011
-HOW TO START THIS PROJECT: easy
+HOW TO START THIS PROJECT: Paneau.java
 AUTHORS: Franck Awounang Nekdem, Jean Michel
 USER INSTRUCTIONS:
